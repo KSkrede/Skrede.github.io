@@ -1,5 +1,5 @@
 ---
-title: Kristian Skrede's Resume"
+title: Kristian Skrede's CV"
 author: Kristian Skrede
 date: "`r Sys.Date()`"
 output:
@@ -75,6 +75,8 @@ Se nettsiden min Kristian.skrede.info for mer informasjon.
 
 
 Sist oppdatert `r Sys.Date()`.
+
+`r format(Sys.Date(), format = "%d-%b-%y")`.
 
 
 
