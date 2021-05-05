@@ -63,7 +63,9 @@ Kontakt og medier {#contact}
 
 
 
-
+Vitnemål {#more-info}
+--------------------------------------------------------------------------------
+Trykk [her](https://raw.githubusercontent.com/KSkrede/KSkrede.github.io/master/diploma.pdf) for å se en kopi av vitnemålet mitt.
 
 
 Mer informasjon {#more-info}
@@ -72,13 +74,13 @@ Mer informasjon {#more-info}
 Se nettsiden min Kristian.skrede.info for mer informasjon.
 
 
+
+
  {#disclaimer}
 --------------------------------------------------------------------------------
 
 
-Sist oppdatert `r Sys.Date()`.
-
-`r format(Sys.Date(), format = "%d-%b-%y")`.
+Sist oppdatert `r format(Sys.Date(), format = "%d-%b-%y")`.
 
 
 
