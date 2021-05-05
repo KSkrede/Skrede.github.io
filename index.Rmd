@@ -34,8 +34,7 @@ position_data <- read_csv('positions.csv') %>%
   mutate(
     # Build some custom sections by collapsing others
     section = case_when(
-      section %in% c('research_positions', 'industry_positions') ~ 'positions', 
-      section %in% c('data_science_writings', 'by_me_press') ~ 'writings',
+      section %in% c('research_positions', 'industry_positions') ~ 'positions',
       TRUE ~ section
     )
   ) 
@@ -49,16 +48,19 @@ Aside
 
 ![logo](beta_dist.png){width=100%}
 
-Kontakt {#contact}
+Kontakt og medier {#contact}
 --------------------------------------------------------------------------------
 
 
 
 - <i class="fa fa-envelope"></i> Kristian@Skrede.info
-- <i class="fa fa-Strava"></i> Kristian Skrede
-- <i class="fa fa-github"></i> github.com/Kskrede
-- <i class="fa fa-link"></i>[Kristian.skrede.info](http://Kristian.skrede.info/)
-- <i class="fa fa-phone"></i> (+47) 40612594
+- <i class="fa fa-phone"></i>(+47) 40612594
+- <i class="fa fa-github"></i> [github.com/Kskrede](http://github.com/Kskrede/)
+- <i class="fa fa-link"></i> [Kristian.skrede.info](http://Kristian.skrede.info/)
+- <i class="fa fa-bicycle"></i> [Strava](https://www.strava.com/athletes/15198681/)
+- <i class="fa fa-instagram"></i> [Instagram](https://www.instagram.com/kristianskrede/)
+
+
 
 
 
