@@ -45,7 +45,7 @@ Aside
 ================================================================================
 
 
-![logo](beta_dist.png){width=100%}
+![logo](profile_pic.png){width=100%}
 
 Kontakt og medier {#contact}
 --------------------------------------------------------------------------------
@@ -121,7 +121,11 @@ position_data %>% print_section('sertifications')
 ```
 
 
+
 Referanser {data-icon=group}
 --------------------------------------------------------------------------------
-Oppgis ved forespørsel
+```{r}
+position_data %>% print_section('refrences')
+```
+
 

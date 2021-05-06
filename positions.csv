@@ -1,10 +1,9 @@
-"section","in_resume","title","loc","institution","start","end","description_1","description_2","description_3"
-"education","TRUE","Menig Ingeniørbataljonen","Forsvaret","Skjold","2020","2021","Verneplikt i Oversettingstroppen","Førerkort Klasse C lastebil. Pongtongfører på ferge og byggekurs på Bailtybru",
-"education","TRUE","TAF Elektro (Tekniske og Allmenene fag)","Knarvik VGS","Knarvik","2016","2020","En videregående linje som kombinerer Spesiell studiekompetanse med fordypning i matte og fysikk med programfag i elektro og jobb og fagbrev.","Gjennom 4 år tilbringes halve uken i jobb og halve uken på skole",
-"job","TRUE","Bro/Fergesoldat,Tr.ass, Vf Scania","Forsvaret","Skjold","2020","2021","Jobbet med oppgaver som å øke framkommelighet for Brigade Nord ved å konstruere ferger og broer.","NA","NA"
-"job","TRUE","TAF Lærling","Aanderaa Data Instruments","Bergen","2019","2019","Hospitering med fokus på produksjonselektronikk",,
-"job","TRUE","Teknikker / TAF Lærling","MarinIT","Bergen","2016","2020","Taf Lærling i MarinIT med fokus på support og operations","NA",
-"sertifications","TRUE","Førerkort:","Klasse AM, B, C og T. Truck Klasse T1",,"2021","2021",,,
-"sertifications","TRUE","MS-900 and AZ 900",,,,,,,
-"sertifications","TRUE","Fagbrev",,,,,,,
-"refrences","TRUE",,"Oppgis ved forespørsel",,,,,,
+"section","in_resume","title","loc","institution","start","end","description_1","description_2","description_3",description_4
+"education","TRUE","Menig Ingeniørbataljonen","Forsvaret","Skjold","2020","2021","Verneplikt i Oversettingstroppen","Førerkort Klasse C lastebil. Pongtongfører på ferge og byggekurs på Bailtybru","Motorsagkurs og kompetanse på Samband","Tipp, krok, vinsj, og bakløft modul til Lastebil"
+"education","TRUE","TAF Elektro (Tekniske og Allmenene fag)","Knarvik VGS","Knarvik","2016","2020","En videregående linje som kombinerer Spesiell studiekompetanse med fordypning i matte og fysikk med programfag i elektro og jobb og fagbrev.","Gjennom 4 år tilbringes halve uken i jobb og halve uken på skole",,
+"job","TRUE","Bro/Fergesoldat,Tr.ass, Vf Scania","Forsvaret","Skjold","2020","2021","Jobbet med oppgaver som å øke framkommelighet for Brigade Nord ved å konstruere ferger og broer.","NA","NA",
+"job","TRUE","TAF Lærling","Aanderaa Data Instruments","Bergen","2019","2019","Hospitering med fokus på produksjonselektronikk",,,
+"job","TRUE","Teknikker / TAF Lærling","MarinIT","Bergen","2016","2020","Taf Lærling i MarinIT med fokus på support og operations","NA",,
+"sertifications","TRUE","Førerkort:","Klasse AM, B, C og T. Truck Klasse T1",,,,,,,
+"sertifications","TRUE","Fagbrev",,,,,,,,
+"refrences","TRUE","Oppgis ved forespørsel",,,,,,,,
