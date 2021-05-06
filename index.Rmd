@@ -25,7 +25,6 @@ PDF_EXPORT <- FALSE
 links <- c()
 
 source('parsing_functions.R') # Functions for building sections from CSV data
-source('common_variables.R')  # Small variables for non-csv data such as intro text
 
 # First let's get the data, filtering to only the items tagged as
 # Resume items
@@ -59,11 +58,16 @@ Kontakt og medier {#contact}
 - <i class="fa fa-link"></i> [Kristian.skrede.info](http://Kristian.skrede.info/)
 - <i class="fa fa-bicycle"></i> [Strava](https://www.strava.com/athletes/15198681/)
 - <i class="fa fa-instagram"></i> [Instagram](https://www.instagram.com/kristianskrede/)
+ 
+ Født 23. Januar 2000
+ 
+ Adressse:        
+Kvassnesvegen 51C, 5914 Isdalstø
 
 
 
 
-Vitnemål {#more-info}
+Vitnemål {#diploma}
 --------------------------------------------------------------------------------
 Trykk [her](https://raw.githubusercontent.com/KSkrede/KSkrede.github.io/master/diploma.pdf) for å se en kopi av vitnemålet mitt.
 
@@ -80,7 +84,7 @@ Se nettsiden min Kristian.skrede.info for mer informasjon.
 --------------------------------------------------------------------------------
 
 
-Sist oppdatert `r format(Sys.Date(), format = "%d-%b-%y")`.
+Sist oppdatert `r format(Sys.Date(), format = "%d.%m.%y")`.
 
 
 
@@ -91,10 +95,7 @@ Main
 Kristian Skrede {#title}
 --------------------------------------------------------------------------------
 
-```{r}
-cat(sanitize_links(intro_text))
-```
-
+Press [here](http://Kristian.skrede.info/) to read my resume in english
 
 
 Utdanning {data-icon=graduation-cap data-concise=true}
@@ -105,12 +106,22 @@ position_data %>% print_section('education')
 ```
 
 
-
 Jobb {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ```{r}
-position_data %>% print_section('positions')
+position_data %>% print_section('job')
 ```
 
+
+Sertifiseringer {data-icon=file-text}
+--------------------------------------------------------------------------------
+```{r}
+position_data %>% print_section('sertifications')
+```
+
+
+Referanser {data-icon=group}
+--------------------------------------------------------------------------------
+Oppgis ved forespørsel
 

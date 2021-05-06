@@ -1,6 +1,10 @@
 "section","in_resume","title","loc","institution","start","end","description_1","description_2","description_3"
 "education","TRUE","Menig Ingeniørbataljonen","Forsvaret","Skjold","2020","2021","Verneplikt i Oversettingstroppen","Førerkort Klasse C lastebil. Pongtongfører på ferge og byggekurs på Bailtybru",
 "education","TRUE","TAF Elektro (Tekniske og Allmenene fag)","Knarvik VGS","Knarvik","2016","2020","En videregående linje som kombinerer Spesiell studiekompetanse med fordypning i matte og fysikk med programfag i elektro og jobb og fagbrev.","Gjennom 4 år tilbringes halve uken i jobb og halve uken på skole",
-"industry_positions","FALSE","2","Dealer.com","Burlington, VT","2015","2015","Worked with the product analytics team to help parse and visualize large stores of data to drive business decisions.","NA","NA"
-"industry_positions","TRUE","Bro/Fergesoldat,Tr.ass, Vf Scania","Forsvaret","Skjold","2020","2021","Jobbet med oppgaver som å øke framkommelighet for Brigade Nord ved å konstruere ferger og broer.","NA","NA"
-"industry_positions","TRUE","Teknikker","MarinIT","Bergen","2016","2020","Taf Lærling i MarinIT med fokus på support og operations","NA",
+"job","TRUE","Bro/Fergesoldat,Tr.ass, Vf Scania","Forsvaret","Skjold","2020","2021","Jobbet med oppgaver som å øke framkommelighet for Brigade Nord ved å konstruere ferger og broer.","NA","NA"
+"job","TRUE","TAF Lærling","Aanderaa Data Instruments","Bergen","2019","2019","Hospitering med fokus på produksjonselektronikk",,
+"job","TRUE","Teknikker / TAF Lærling","MarinIT","Bergen","2016","2020","Taf Lærling i MarinIT med fokus på support og operations","NA",
+"sertifications","TRUE","Førerkort:","Klasse AM, B, C og T. Truck Klasse T1",,"2021","2021",,,
+"sertifications","TRUE","MS-900 and AZ 900",,,,,,,
+"sertifications","TRUE","Fagbrev",,,,,,,
+"refrences","TRUE",,"Oppgis ved forespørsel",,,,,,
