@@ -1,5 +1,5 @@
 ---
-title: Kristian Skrede's CV"
+title: Kristian Skrede's CV
 author: Kristian Skrede
 date: "`r Sys.Date()`"
 output:
@@ -95,7 +95,6 @@ Main
 Kristian Skrede {#title}
 --------------------------------------------------------------------------------
 
-Press [here](http://Kristian.skrede.info/) to read my resume in english
 
 
 Utdanning {data-icon=graduation-cap data-concise=true}
@@ -120,7 +119,11 @@ Sertifiseringer {data-icon=file-text}
 position_data %>% print_section('sertifications')
 ```
 
-
+Interesser {data-icon=terminal}
+--------------------------------------------------------------------------------
+```{r}
+position_data %>% print_section('intrests')
+```
 
 Referanser {data-icon=group}
 --------------------------------------------------------------------------------
@@ -128,4 +131,19 @@ Referanser {data-icon=group}
 position_data %>% print_section('refrences')
 ```
 
+```{r}
+if(PDF_EXPORT){
+  cat("
+  
+Links {data-icon=link}
+--------------------------------------------------------------------------------
 
+<br>
+
+")
+  
+  walk2(links, 1:length(links), function(link, index){
+    print(glue('{index}. {link}'))
+  })
+}
+```
