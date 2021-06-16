@@ -115,7 +115,7 @@ Sertifiseringer {data-icon=file-text}
 position_data %>% print_section('sertifications')
 ```
 
-Interesser {data-icon=terminal}
+Jobbrelaterte interesser {data-icon=terminal}
 --------------------------------------------------------------------------------
 ```{r}
 position_data %>% print_section('intrests')
