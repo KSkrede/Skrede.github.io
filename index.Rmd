@@ -108,6 +108,7 @@ Jobb {data-icon=suitcase}
 position_data %>% print_section('job')
 ```
 
+<br>
 
 Sertifiseringer {data-icon=file-text}
 --------------------------------------------------------------------------------
