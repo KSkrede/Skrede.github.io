@@ -1,5 +1,5 @@
 section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3,description_4
-education,TRUE,Menig Ingeniørbataljonen,Forsvaret - Hæren,Skjold,2020,2021,Førstegangstjeneste i Oversettingstroppen med grunnleggende soldatutdanning.,Førerkort Klasse C (lastebil). Pongtongfører på ferge og byggekurs på baileybro.,"Erfaring med forsvarets sambandsmateriell. ","Tipp, krok, vinsj, og bakløft modul til Scania/Man."
+education,TRUE,Ingeniørbataljonen,Forsvaret - Hæren,Skjold,2020,2021,Førstegangstjeneste i Oversettingstroppen med grunnleggende soldatutdanning.,Førerkort Klasse C (lastebil). Pongtongfører på ferge og byggekurs på baileybro.,"Erfaring med forsvarets sambandsmateriell. ","Tipp, krok, vinsj, og bakløft modul til Scania/Man."
 education,TRUE,TAF Elektro (Tekniske og Allmenene fag),Knarvik VGS,Knarvik,2016,2020,"En videregående linje som kombinerer spesiell studiekompetanse med fordypning i matte og fysikk, med programfag i elektro/data, jobb og fagbrev.","Linjen ble skapt for å dyrke gode ingeniører, med både teoretisk og praktisk kompetanse. Gjennom 4 år tilbringes halve uken i jobb og halve uken på skolen.",Link til vitnemålet mitt ser du på høyre side. Se også https://taf.no/.,
 job,TRUE,"Bro/Fergesoldat, Tr.ass, Vf Scania",Oversetningstroppen,Skjold,2020,2021,"Som troppsassistent og vognfører hadde jeg et spesielt ansvar for troppens materiell, utstyr og kjøretøyet mitt.","Som tropp øker Oversettning mobilitet og framkommelighet for Brigade Nord over våte og tørre gap, ved å konstruere ferger og broer.",,
 job,TRUE,TAF hospitering,Aanderaa Data Instruments,Bergen,2019,2019,3 uker hospitering med fokus på lodding og produksjonselektronikk. Støttet på produksjon av Aanderaa sine undervannssensorer.,,,
@@ -8,6 +8,6 @@ job,TRUE,Teknikker / Sommerjobb,MarinIT,Bergen,2020,2020,Jobbet fast i MarinIT f
 sertifications,TRUE,Førerkort:,"Klasse AM, B, C og T. Truck Klasse T1, T2 og T4.",,,,,,,
 sertifications,TRUE,Fagbrev,Produksjonselektronikerfaget -  PRO3001.,,,,,,,
 sertifications,TRUE,Microsoft,Azure AI Fundamenals.,,,,,,,
-intrests,TRUE,Data,,,,,"Linux, Docker/kubernetes, Infrastructure as code, automatisering og enkel maskinlæring.","Grunnleggende forståelse av Python, HTML, JS og C#.",,
-intrests,TRUE,Elektro,,,,,"Feilsøking, reparasjon og modifisering av diverse elektroniske produkter.",Prototyping med Arduino og Iot,,
+intrests,TRUE,Data,"Linux, Docker/kubernetes, Infrastructure as code, automatisering og enkel maskinlæring. Grunnleggende forståelse av Python, HTML, JS og C#.",,,,,,,
+intrests,TRUE,Elektro,"Feilsøking, reparasjon og modifisering av diverse elektroniske produkter. Prototyping med Arduino og Iot",,,,,,,
 refrences,TRUE,Oppgis ved forespørsel,,,,,,,,

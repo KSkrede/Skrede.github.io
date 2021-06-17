@@ -54,10 +54,9 @@ Kontakt og medier {#contact}
 
 - <i class="fa fa-envelope"></i> Kristian@Skrede.info
 - <i class="fa fa-phone"></i>(+47) 40612594
-- <i class="fa fa-github"></i> [github.com/Kskrede](http://github.com/Kskrede/)
-- <i class="fa fa-link"></i> [Kristian.skrede.info](http://Kristian.skrede.info/)
-- <i class="fa fa-bicycle"></i> [Strava](https://www.strava.com/athletes/15198681/)
-- <i class="fa fa-instagram"></i> [Instagram](https://www.instagram.com/kristianskrede/)
+- <i class="fa fa-github"></i> [github.com/Kskrede](https://github.com/Kskrede/)
+- <i class="fa fa-link"></i> [Kristian.skrede.info](https://Kristian.skrede.info/)
+
  
  Født 23. Januar 2000
  
