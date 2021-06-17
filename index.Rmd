@@ -109,6 +109,9 @@ position_data %>% print_section('job')
 ```
 
 <br>
+<br>
+<br>
+<br>
 
 Sertifiseringer {data-icon=file-text}
 --------------------------------------------------------------------------------
